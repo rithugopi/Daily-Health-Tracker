@@ -2,13 +2,16 @@
     <item
         android:id="@+id/navigation_water_intake"
         android:icon="@drawable/ic_water"
-        android:title="Water Intake" />
+        android:title="Water Intake"
+        android:iconTint="@color/primary" />
     <item
         android:id="@+id/navigation_activities"
         android:icon="@drawable/ic_activities"
-        android:title="Activities" />
+        android:title="Activities"
+        android:iconTint="@color/primary" />
     <item
         android:id="@+id/navigation_log_meal"
         android:icon="@drawable/ic_log_meal"
-        android:title="Log Meal" />
+        android:title="Log Meal"
+        android:iconTint="@color/primary" />
 </menu>

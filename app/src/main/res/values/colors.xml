@@ -1,5 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F5F5F5</color> <!-- Light grey background -->
+    <color name="dialog_background">#FFFFFF</color> <!-- White for dialogs -->
+    <color name="primary">#FF5722</color> <!-- Vibrant primary color -->
+    <color name="primary_dark">#E64A19</color> <!-- Darker primary color -->
+    <color name="accent">#FFC107</color> <!-- Accent color -->
+    <color name="button_background">#FF9800</color> <!-- Button background color -->
+    <color name="text_primary">#212121</color> <!-- Primary text color -->
+    <color name="text_secondary">#757575</color> <!-- Secondary text color -->
+    <color name="hint">#BDBDBD</color> <!-- Hint text color -->
+    <color name="divider">#BDBDBD</color> <!-- Divider color -->
 </resources>
