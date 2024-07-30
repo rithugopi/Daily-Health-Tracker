@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/water_amount_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Water Amount (ml)" />
+
+    <Button
+        android:id="@+id/log_water_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log Water"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/total_water_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Total Water Consumed: 0 ml"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

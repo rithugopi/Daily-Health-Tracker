@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_water_intake"
+        android:icon="@drawable/ic_water"
+        android:title="Water Intake" />
+    <item
+        android:id="@+id/navigation_activities"
+        android:icon="@drawable/ic_activities"
+        android:title="Activities" />
+    <item
+        android:id="@+id/navigation_log_meal"
+        android:icon="@drawable/ic_log_meal"
+        android:title="Log Meal" />
+</menu>
